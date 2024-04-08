@@ -60,5 +60,5 @@ To write a new test:
 
 Test execution results are generated in both text and HTML format. After running the tests, you can find the reports in the `target` directory:
 
-- `target/cucumber-reports/report.html`: HTML report containing test results.
-- `target/cucumber-reports/cucumber.txt`: Plain text report.
+- `target/cucumber/report.html`: HTML report containing test results.
+- `target/cucumber.json`: json report.
